@@ -38,7 +38,7 @@
 <li>Dart SDK</li>
 <li><code>crypto</code> package</li>
 </ul><h5>Steps</h5><ul>
-<li>Clone the repository:   <code>sh    git clone https://github.com/your-username/file-integrity-checker.git</code></li>
+<li>Clone the repository:   <code>sh    git clone https://github.com/muhammadumerbinfarooq/file-integrity-checker.git</code></li>
 </ul><ul>
 <li>Navigate to the project directory:    <code>cd file-integrity-checker   </code></li>
 </ul><ul>
